@@ -7,7 +7,7 @@ A SMAPI mod for the game Stardew Valley that automates daily gift-giving to vill
 
 ## 1. The demo
 
-In the evening, before ending the day, I open the mod's menu and see tomorrow's plan: "Abigail → Grape (12 in chest), Sebastian → Beer (3 in chest), Penny → Strawberry (8 in chest)". I uncheck the Sebastian row because I don't want to give him anything tomorrow. I go to sleep, and a new day starts. The next day I play normally — mining, farming — and as I walk past Abigail in town, the mod automatically pulls a grape from the chest and hands it to her; a message confirms "Gave Grape to Abigail". The prismatic shard sitting in my chest is never touched, because I added it to the blocklist.
+In the evening, before ending the day, I open the mod's menu and see tomorrow's plan: "Abigail → Grape (12 in chest), Sebastian → Beer (3 in chest), Penny → Strawberry (8 in chest)". I uncheck the Sebastian row because I don't want to give him anything tomorrow. I go to sleep, and a new day starts. The next day I play normally, mining, farming, and as I walk past Abigail in town, the mod automatically pulls a grape from the chest and hands it to her, a message confirms "Gave Grape to Abigail". The prismatic shard sitting in my chest is never touched, because I added it to the blocklist.
 
 ## 2. The shape
 
