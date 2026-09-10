@@ -39,7 +39,7 @@ in between   at the start of each day, picks for each NPC the item they
 
 **Not this term**
 - seasonal preference (prioritizing fruits/vegetables in season)
-- automatic detection of "rare" items (blocklist stays manual for now) — the game itself has no rarity system, so a future version could learn one from an AI trained on my own playthrough data, based on how often an item has shown up in my inventory
+- automatic detection of "rare" items (blocklist stays manual for now), the game itself has no rarity system, so a future version could learn one from an AI trained on my own playthrough data, based on how often an item has shown up in my inventory
 - combining multiple weighting factors for selection (for now: quantity only)
 - multiplayer compatibility
 - long-term history/statistics of past gifts
@@ -52,7 +52,7 @@ in between   at the start of each day, picks for each NPC the item they
 
 ## 5. What could stop this
 
-- Similar mods already exist (e.g. "Easy Gifting," which delivers liked/loved gifts from a chest to a nearby NPC via a manual button press). These are not automatic and don't use quantity-based selection, so this project stays distinct but their source is worth reviewing for reference.
+- Similar mods already exist (example: "Easy Gifting," which delivers liked/loved gifts from a chest to a nearby NPC via a manual button press). These are not automatic and don't use quantity-based selection, so this project stays distinct but their source is worth reviewing for reference.
 - C#/SMAPI is new for me; learning the modding API (fetching NPC gift preferences, tracking player position, handling item quantities) will take some time, so it's best started early.
 - Open question: whether the SMAPI API offers an efficient way to check player-NPC distance on a tick event without a meaningful performance cost, worth testing with an early prototype.
 - No personal or sensitive data is involved; everything comes from the player's own save file (in this case, mine).
