@@ -14,12 +14,13 @@ In the evening, before ending the day, I open the mod's menu and see tomorrow's 
 ```
 in     the contents of a designated chest (items + quantities) + a
        blocklist (item names that must never be taken) + the player's
-       daily position/proximity to NPCs
+       daily position/proximity to NPCs + the game's built-in list of
+       each NPC's liked/loved/disliked items
 out    automatic gift delivery to listed NPCs when the player gets
        close to them, plus a daily preview/plan that can be edited
 in between   at the start of each day, picks for each NPC the item they
              love that exists in the largest quantity in the chest and
-             is not on the blocklist; throughout the day, tracks the
+             is not on the blocklist, throughout the day, tracks the
              player's distance to NPCs, and if a gift is still due for
              that NPC today, triggers the hand-off
 ```
