@@ -46,7 +46,7 @@ in between   at the start of each day, picks for each NPC the item they
 
 ## 4. How we would know it works
 
-- If I go to an NPC with three loved items in the chest at different quantities (e.g. 2 grapes, 8 strawberries, 1 beer), the mod selects the strawberries, because that's what I have the most of.
+- If I go to an NPC with three loved items in the chest at different quantities (example: 2 grapes, 8 strawberries, 1 beer), the mod selects the strawberries, because that's what I have the most of.
 - If an item is on the blocklist, even if it's the NPC's favorite and the most plentiful in the chest, the mod skips it and falls back to the next-best option.
 - If an NPC has already received their two friendship-point-counting gifts for the week, no further automatic gift is given to them that day, even if the player walks past them.
 
