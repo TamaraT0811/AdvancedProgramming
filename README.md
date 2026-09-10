@@ -52,7 +52,7 @@ in between   at the start of each day, picks for each NPC the item they
 
 ## 5. What could stop this
 
-- Similar mods already exist (e.g. "Easy Gifting," which delivers liked/loved gifts from a chest to a nearby NPC via a manual button press). These are not automatic and don't use quantity-based selection, so this project stays distinct — but their source is worth reviewing for reference.
+- Similar mods already exist (e.g. "Easy Gifting," which delivers liked/loved gifts from a chest to a nearby NPC via a manual button press). These are not automatic and don't use quantity-based selection, so this project stays distinct but their source is worth reviewing for reference.
 - C#/SMAPI is new for me; learning the modding API (fetching NPC gift preferences, tracking player position, handling item quantities) will take some time, so it's best started early.
-- Open question: whether the SMAPI API offers an efficient way to check player-NPC distance on a tick event without a meaningful performance cost — worth testing with an early prototype.
+- Open question: whether the SMAPI API offers an efficient way to check player-NPC distance on a tick event without a meaningful performance cost, worth testing with an early prototype.
 - No personal or sensitive data is involved; everything comes from the player's own save file (in this case, mine).
